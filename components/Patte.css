@@ -1,0 +1,23 @@
+.patte{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.areaC{
+    margin: 2% 2%;
+    width: 415px;
+}
+.pa{
+display: flex;
+column-gap: 15px;
+margin-bottom: 7px;
+}
+button{
+    border-style: none;
+    padding: 10px;
+    padding-right: 14px;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    font-size: 0.875rem;
+    color: rgba(0, 0, 0, 0.6);
+}

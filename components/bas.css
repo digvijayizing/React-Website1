@@ -1,0 +1,30 @@
+.bsticker{ position: relative;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/701/690/original/abstract-polygonal-banner-background-vector.jpg");
+    width: 1220px;
+    height: 200px;
+    background-size: cover;
+    background-position: center ;
+margin-right: 5%;
+margin-left: 8.5%; 
+}
+.btnn{
+      background-color: #2659ac;
+  color:white;
+position: absolute;
+top: 50%;
+right :12%;
+font-size: 20px; }
+.set{
+    position: absolute;
+ top:10%
+}
+h1 {
+color: black;
+padding: 2%;
+width: 900px;
+}
+.We{
+color: black;
+padding: 2%;
+padding-left: 6.5%;
+}

@@ -1,0 +1,51 @@
+.bg{
+  background-image: url("../image/headercover1.jpg");
+  position: relative;
+    width: 100%;
+    height: 350px;
+    background-size: contain;
+    background-position: center ;
+    
+}
+
+/* Navbar.css */
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+      top: 4%;
+    right: 5%;
+}
+
+.nav-item {
+  margin-right: 23px; /* Adjust the gap between items as needed */
+  font-weight: bold;
+  font-size: small;
+  text-decoration: none;
+  color: white; /* Adjust text color as needed */
+  padding: 8px 16px; /* Adjust padding as needed for spacing around text */
+}
+
+.nav-item:hover {
+  background-color: #0e0909; /* Adjust hover background color as needed */
+}
+
+.logo
+  {
+    font-size: 45px;
+    font-weight: bolder;
+    position: absolute;
+    top: 44%;
+    left: 5%;
+    color: aliceblue;}
+  .logo1{
+    font-size: x-large;
+    font-weight: bold;
+    position: absolute;
+    top: 4%;
+    left :5%;
+    color: white;}
+    .l{
+      border-right-style:outset ;
+      border-bottom-style:outset ;
+      border-color: white;
+    }

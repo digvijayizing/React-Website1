@@ -1,0 +1,16 @@
+.carousel-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px; /* Adjust the height as needed */
+}
+
+.carousel-image {
+  width: 1000px; /* Adjust the width as needed */
+  height: 500px; /* Maintain aspect ratio */
+margin-left: 8%;
+}
+.cp{
+  overflow:hidden;
+}
+

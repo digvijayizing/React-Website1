@@ -1,0 +1,34 @@
+/* Reset CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Ensures padding and border don't increase element size */
+}
+
+.cardkicss {
+    display: flex;       /* Use flexbox */
+    justify-content: space-around;  /* Distribute cards with space around them */
+    gap: 20px;           /* Add some spacing between cards */
+    margin-bottom: 50px;
+  }
+
+  .cp{
+  position:static;
+
+  }
+  h1{
+    margin-left: 4%;
+    width: 1000px;
+  }
+
+.st{
+  margin-top: 90px;
+margin-bottom: 100px;
+}
+.social-icons{
+  position: absolute;
+  top: 90%;
+  }
+  .How{
+    color:rgb(5, 5, 37);
+  }
